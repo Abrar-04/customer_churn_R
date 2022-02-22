@@ -89,7 +89,7 @@ From the above visualization, we observe that there is a distribution of 6 clust
 
 * **Cluster 2** : This cluster denotes a high annual income and low yearly spend.
 
-* Cluster 5 : This cluster represents a low annual income but its high yearly expenditure.
+* **Cluster 5** : This cluster represents a low annual income but its high yearly expenditure.
 
 
 
