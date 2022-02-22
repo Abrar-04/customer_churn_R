@@ -19,7 +19,7 @@ The technique of customer segmentation is dependent on several key differentiato
 * Find optimal clusters
 * Perform K-means clustering (6 Clusters) 
 * Plot clusters
-*  
+* Insights
 
 
 
