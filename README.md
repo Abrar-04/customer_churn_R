@@ -9,8 +9,18 @@ Companies that deploy customer segmentation are under the notion that every cust
 The technique of customer segmentation is dependent on several key differentiators that divide customers into groups to be targeted. Data related to demographics, geography, economic status as well as behavioral patterns play a crucial role in determining the company direction towards addressing the various segments.
 
 
-
 [DATA can be downloaded from here](https://drive.google.com/file/d/19BOhwz52NUY3dg8XErVYglctpr5sjTy4/view)
+
+## Steps involved are :
+* Read-data
+* Study the Summary and Standard Deviation of columns
+* Visualise Data
+* Plot an Elbow-plot 
+* Find optimal clusters
+* Perform K-means clustering (6 Clusters) 
+* Plot clusters
+*  
+
 
 
 ![gender](https://github.com/Abrar-04/customer_churn_R/blob/main/images/Gender.png)
