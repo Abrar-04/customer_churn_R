@@ -129,11 +129,3 @@ ggplot(customer_data, aes(x =Annual.Income..k.., y = Spending.Score..1.100.)) +
 
 
 
-kCols=function(vec){cols=rainbow (length (unique (vec)))
-return (cols[as.numeric(as.factor(vec))])}
-
-digCluster<-k6$cluster; dignm<-as.character(digCluster); # K-means clusters
-
-plot(pcclust$x[,1:2], col =kCols(digCluster),pch =19,xlab ="K-means",ylab="classes")
-legend("bottomleft",unique(dignm),fill=unique(kCols(digCluster)))
-
