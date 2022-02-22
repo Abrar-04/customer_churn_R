@@ -23,8 +23,8 @@ The technique of customer segmentation is dependent on several key differentiato
 
 
 ## VIsualisation :
-* Gender BarPlot 
-* ![gender](https://github.com/Abrar-04/customer_churn_R/blob/main/images/Gender.png) 
+Gender BarPlot-- 
+![gender](https://github.com/Abrar-04/customer_churn_R/blob/main/images/Gender.png) 
 * 
 
 
