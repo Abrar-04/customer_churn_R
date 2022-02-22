@@ -27,7 +27,35 @@ Gender BarPlot
 
 ![gender](https://github.com/Abrar-04/customer_churn_R/blob/main/images/Gender.png) 
 
-* 
+Gender Pie-Chart
+
+![gender-pie](https://github.com/Abrar-04/customer_churn_R/blob/main/images/gender-pie.png)
+
+Age Distribution Histogram 
+
+![age-hist](https://github.com/Abrar-04/customer_churn_R/blob/main/images/age-hist.png)
+
+Age Boxplot
+
+![age-box](https://github.com/Abrar-04/customer_churn_R/blob/main/images/age-box.png)
+
+Annual Income histogram
+
+![income-hist](https://github.com/Abrar-04/customer_churn_R/blob/main/images/income-hist.png)
+
+Annual Income Distribution Curve
+
+![income-dist](https://github.com/Abrar-04/customer_churn_R/blob/main/images/income-dist.png)
+
+Spending Score Boxplot
+
+![spending-box](https://github.com/Abrar-04/customer_churn_R/blob/main/images/spending-box.png)
+
+Spending Score Boxplot Histogram
+
+![spending-hist](https://github.com/Abrar-04/customer_churn_R/blob/main/images/spending-hist.png)
+
+
 
 
 
