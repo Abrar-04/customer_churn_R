@@ -57,31 +57,31 @@ Spending Score Boxplot Histogram
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## Elbow method plot to find K-clusters :
+# Elbow method plot to find K-clusters :
 ![elbow](https://github.com/Abrar-04/customer_churn_R/blob/main/images/elbow.png)
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## Optimal no.of clusters :
+# Optimal no.of clusters :
 ![optim](https://github.com/Abrar-04/customer_churn_R/blob/main/images/optimal%20elbow.png)
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## Optimal Clusters: 6 :
+# Optimal Clusters: 6 :
 ![clusts](https://github.com/Abrar-04/customer_churn_R/blob/main/images/k6.png)
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## PLOT 6 clusters :
+# PLOT 6 clusters :
 ![plot](https://github.com/Abrar-04/customer_churn_R/blob/main/images/six-cluster.png)
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## INSIGHTS :
+# INSIGHTS :
 
 From the above visualization, we observe that there is a distribution of 6 clusters as follows –
 
-* Cluster 6 and 4 – These clusters represent the customer_data with the medium income salary as well as the medium annual spend of salary.
+* # Cluster 6 and 4 – These clusters represent the customer_data with the medium income salary as well as the medium annual spend of salary.
 
 * Cluster 1 – This cluster represents the customer_data having a high annual income as well as a high annual spend.
 
