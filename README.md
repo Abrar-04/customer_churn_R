@@ -10,7 +10,7 @@ Customer Segmentation is the process of division of customer base into several g
 
 
 
-![DATA can be downloaded from here](https://drive.google.com/file/d/19BOhwz52NUY3dg8XErVYglctpr5sjTy4/view)
+[DATA can be downloaded from here](https://drive.google.com/file/d/19BOhwz52NUY3dg8XErVYglctpr5sjTy4/view)
 
 
 ![gender](https://github.com/Abrar-04/customer_churn_R/blob/main/images/Gender.png)
